@@ -1,18 +1,60 @@
-# Beginner course on bacterial genomics: applications and research
-> _Repository to the course **Beginner course on bacterial genomics: applications and research (2026)**_
+# Beginner Course on Microbial Genomics: Applications & Research
+
+A bioinformatics workshop organised by the [Molecular Epidemiology Group](https://www.oucru.org/research/molecular-epidemiology) at Oxford University Clinical Research Unit in May, 2026.
+
+This workshop is a part of the [KLEB-CASAVA](https://www.oucru.org/project/kleb-casava/) project, funded by the UKRI.
+
+It aims to provide bioinformatics skills for Vietnamese clinicians or researchers working on bacterial infectious diseases with no to little experience analysing whole-genome sequencing data. The major goal is to enhance the local human capacity in genomic epidemiology and surveillance.  
+
+**Lecturers:**
+  - Dr. Pham Thanh Duy (Duy), Center for Tropical Medicine and Global Health, Nuffield Department of Clinical Medicine, Oxford University
+  - Dr. Chung The Hao (Hao), Saw Swee Hock School of Public Health, National University of Singapore
+  - Mai Thu Si Nguyen (Nguyen), Oxford University Clinical Research Unit
+  - Nguyen Pham Nhu Quynh (Quynh), Center for Tropical Medicine and Global Health, Nuffield Department of Clinical Medicine, Oxford University
+  - Ton Ngoc Minh Quan (Quan), Oxford University Clinical Research Unit
+
 ---
-- **Venue:** OUCRU - Ho Chi Minh City
-- **Host organiser:** Molecular Epidemiology Group
-- **Lecturers**
-  - Dr. Pham Thanh Duy: Head of Molecular Epidemiology Group
-  - Dr. Chung The Hao: Senior Post-doc Fellow
-  - Ms. Mai Thu Si Nguyen: Research Assistant
-  - Ms. Nguyen Pham nhu Quynh: PhD Student
-  - Mr. Ton Ngoc Minh Quan: Research Assistant
+## Navigating
+
+The materials are organised by day of the workshop, following the program below.
+
+Within each day, there are three directories: 
+
+- `instructions` : Practical guides
+- `materials` : Input files required to work on practicals; and corresponding expected outputs
+- `slides` : lecture slides
+
 ---
-## Timeline
-- Day 0: Pre-workshop – Essential Setup
-- Day 1: WGS Introduction & Genome Browsing
-- Day 2: Genome Assembly & Post-assembly Profiling
-- Day 3: Mapping & Phylogenetics
-- Day 4: Metagenomics & Taxonomic Profiling
+## Lectures & Credits
+
+### Day 0: Pack your backpack
+
+- **0.1 Commands & Environments** - Nguyen, Quan
+- **0.2 Setup your workspace** - Quan
+
+### Day 1: Meet the genomes
+
+- **1.1 Whole-genome sequencing - What? & Why?** - Hao, Quynh
+- **1.2 A complete genome - How it look like?** - Duy
+- **1.3 Going backward - From raw sequencing data to assemblies** - Nguyen
+
+### Day 2: Inspect the genomes
+
+- **2.1 Analyse the assemblies** - Quynh, Quan
+- **2.2 Longread sequencing & Hybrid assemblies** - Quynh
+- **2.3 Locate & compare genes** - Nguyen
+
+### Day 3: Phylogenetics - Relationships between genomes
+
+- **3.1 Read mapping & SNP alignment** - Hao
+- **3.2 Phylogenetic tree inference** - Hao
+
+### Day 4: Meta-genomes
+Hao, Quan
+
+---
+## Datasets
+
+Public datasets that have been used for practicals along the course:
+- Capitani *et al*,  Hospital outbreak sustained by Klebsiella pneumoniae sequence type 147 co-producing NDM-1 and OXA-48, Rome, Italy, February to March 2025: molecular tracing and control measures. Euro Surveill. 2026;31(10):pii=2500457. https://doi.org/10.2807/1560-7917.ES.2026.31.10.2500457. BioProject ID: PRJNA1260529.
+
