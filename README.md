@@ -6,7 +6,7 @@ This workshop is a part of the [KLEB-CASAVA](https://www.oucru.org/project/kleb-
 
 It aims to provide bioinformatics skills for Vietnamese clinicians or researchers working on bacterial infectious diseases with no to little experience analysing whole-genome sequencing data. The major goal is to enhance the local human capacity in genomic epidemiology and surveillance.  
 
-**Lecturers:**
+**Instructors:**
   - Dr. Pham Thanh Duy (Duy), Center for Tropical Medicine and Global Health, Nuffield Department of Clinical Medicine, Oxford University
   - Dr. Chung The Hao (Hao), Saw Swee Hock School of Public Health, National University of Singapore
   - Mai Thu Si Nguyen (Nguyen), Oxford University Clinical Research Unit
@@ -41,7 +41,7 @@ Within each day, there are three directories:
 ### Day 2: Inspect the genomes
 
 - **2.1 Analyse the assemblies** - Quynh, Quan
-- **2.2 Longread sequencing & Hybrid assemblies** - Quynh
+- **2.2 Long-read sequencing & Hybrid assemblies** - Quynh
 - **2.3 Locate & compare genes** - Nguyen
 
 ### Day 3: Phylogenetics - Relationships between genomes
